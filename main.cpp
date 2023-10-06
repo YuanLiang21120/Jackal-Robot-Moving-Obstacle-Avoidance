@@ -44,6 +44,7 @@ int count7 = 0;
 int count8 = 0;
 int count9 = 0;
 int count10 = 0;
+int suicide = 666;
 double vl = 0.5;
 int fazhi = 100;
 
